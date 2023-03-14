@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\adamc\OneDrive\Skrivbord\PIDtest-main\PIDreg\main.c(8,20): warning C4101: 'tof1': unreferenced local variable
+C:\Users\adamc\OneDrive\Skrivbord\PIDtest-main\PIDreg\main.c(7,13): warning C4101: 'pid1': unreferenced local variable
+  pid.c
+  Generating Code...
+  PIDreg.vcxproj -> C:\Users\adamc\OneDrive\Skrivbord\PIDtest-main\PIDreg\x64\Debug\PIDreg.exe

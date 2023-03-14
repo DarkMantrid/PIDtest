@@ -1,0 +1,2 @@
+C:\Users\adamc\OneDrive\Skrivbord\Datorarkitekur\PIDreg\x64\Debug\PIDreg.exe
+C:\Users\adamc\OneDrive\Skrivbord\PIDtest-main\PIDreg\x64\Debug\PIDreg.exe
